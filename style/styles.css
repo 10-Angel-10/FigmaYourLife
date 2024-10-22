@@ -1,0 +1,33 @@
+.Navbar{
+font-size: 30px;
+font: calc();
+
+}
+
+Body{
+    background-color: rgb(50, 50, 50);
+}
+
+.TextCenter {
+    color: white;
+    text-align: center;
+}
+
+.text{
+    color: white;
+    font-size: 35px;
+    text-align:left; 
+    
+}
+
+
+.NB{
+font-size: 20px;
+color: black;
+}
+
+.MarkPic{
+    width: 400px;
+    position: absolute;
+    right: 230px;
+}
