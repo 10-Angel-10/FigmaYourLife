@@ -64,8 +64,29 @@ color: black;
 }
 
 .Acord{
-    width: 300px;
+    width: 600px;
     position: absolute;
-    right: 626px;
-    Bottom: 220px;
+    left: 126px;
+    top: 240px;
+}
+
+.SI{
+    width: 400px;
+    position: absolute;
+    right: 230px;
+    bottom: 60px;
+}
+
+.FB{
+    width: 200px;
+    position: absolute;
+    left: 150px;
+    bottom: 60px;
+}
+
+.Insta{
+    width: 220px;
+    position: absolute;
+    left: 380px;
+    bottom: 35px;
 }
