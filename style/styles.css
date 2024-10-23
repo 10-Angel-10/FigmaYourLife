@@ -1,7 +1,7 @@
 .Navbar{
 font-size: 30px;
 font: calc();
-
+color: black;
 }
 
 Body{
@@ -30,4 +30,42 @@ color: black;
     width: 400px;
     position: absolute;
     right: 230px;
+}
+
+.Fcard{
+    width: 300px;
+    position: absolute;
+    left: 230px;
+    bottom: 220px
+}
+.Tcard{
+    width: 300px;
+    position: absolute;
+    right: 230px;
+    Bottom: 220px;
+}
+
+.Scard{
+    width: 300px;
+    position: absolute;
+    right: 626px;
+    Bottom: 220px;
+}
+
+.Text{
+    color: white;
+    font-size: 28px;
+    text-align:center; 
+    
+}
+
+.Mt {
+    margin-top: 380px; 
+}
+
+.Acord{
+    width: 300px;
+    position: absolute;
+    right: 626px;
+    Bottom: 220px;
 }
